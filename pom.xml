@@ -16,6 +16,7 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>rest-api</module>
+    <module>api-result-package</module>
   </modules>
 
   <properties>
