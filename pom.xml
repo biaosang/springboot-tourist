@@ -17,6 +17,7 @@
   <modules>
     <module>rest-api</module>
     <module>api-result-package</module>
+    <module>banner</module>
   </modules>
 
   <properties>
